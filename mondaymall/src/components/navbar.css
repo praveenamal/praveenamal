@@ -1,0 +1,36 @@
+.navigation{
+    display:flex;
+    background:black;
+    
+}
+.navigation a{
+    text-decoration:none;
+}
+.navigation a h2 {
+    display:flex;
+    align-content:center;
+    color:white;
+    justify-content:left;
+    text-decoration:none;
+    
+}
+.navigation ul{
+    display:flex;
+    list-style:none;
+
+
+}
+
+.navigation ul a{
+    display:flex;
+    color:cornsilk;
+    padding:0px 0px 10px ;
+    margin:10px;
+    align-items:right;
+    justify-content:left;
+    text-decoration:none;
+}
+.cart_Number1{
+    padding:2px;
+    margin:20px;
+}
